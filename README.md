@@ -30,6 +30,9 @@ Processes user queries about courses
 Health check endpoint
 - Output: System health status
 
+Test Health check upt 
+Output :> { status : healthy }
+
 ## Setup
 
 1. Set your Groq API key in environment variables
