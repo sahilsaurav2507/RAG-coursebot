@@ -46,7 +46,12 @@ Health check endpoint
    - Similarity search
    - Context-aware response generation using Groq
 
-## Environment Variables
+## Test input and the output
+Test Query =  "Tell me about courses on AI."
+Test output ===
+![image](https://github.com/user-attachments/assets/fa218846-ce26-46dc-8617-b2652a668311)
+
+
 
 ```bash
 GROQ_API_KEY=your_groq_api_key
